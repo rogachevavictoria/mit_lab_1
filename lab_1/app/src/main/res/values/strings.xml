@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="share">Share</string>
+    <string name="get_your_cat_fortune">Get your Cat Fortune!</string>
+    <string name="cat_fortune">Today your Cat Fortune is</string>
+    <string name="get">get</string>
+    <string name="start">Start</string>
+    <string name="todo">TODO</string>
+    <string name="settings" />
+    <string name="refresh" />
+</resources>
